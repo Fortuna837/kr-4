@@ -24,3 +24,6 @@ int main() {
     cout << "Сумма массива = " << array_sum(arr) << endl;
     return 0;
 }
+
+// Вывод:
+// Сумма массива = 15

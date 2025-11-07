@@ -21,3 +21,6 @@ public class ArraySum {
         System.out.println("Сумма массива = " + arraySum(arr, 0));
     }
 }
+
+// Вывод:
+// Сумма массива = 15
